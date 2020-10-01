@@ -125,7 +125,10 @@ Performs the OIC discovery. On discovered resources performs a) GET or b) OBSERV
 ```
 
 ## Tips
-
-If you are running Chrome and want to see the JSON objects in nicely formated way, install the JSONView extension.
+f you are running Chrome and want to see the JSON objects in nicely formated way, install the JSONView extension.
 
 Another great tool for REST API development and testing is Postman, another Chrome extension.
+
+Additional APIs:- Blynk(IOT and android app) This app is very useful in creating and connecting hardware like nodemcu or esp8266 etc to android.
+
+I
